@@ -45,7 +45,7 @@ Platform kami membantu koperasi untuk:
 
 ## 👥 Tim
 
-Kami dari BINUS University Indonesia, berkompetisi di **Technoscape 2026**.
+Team who knows 
 
 <ul>
 <li>Calvin Wu - Ketua Tim</li>
@@ -57,5 +57,5 @@ Kami dari BINUS University Indonesia, berkompetisi di **Technoscape 2026**.
 ---
 
 <div align="center">
-  <sub>Dibuat dengan 💙 oleh siapa tau untuk Technoscape 2026 🔥</sub>
+  <sub>Dibuat dengan 💙 oleh who knows 🔥</sub>
 </div>
