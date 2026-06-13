@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Tentang Kami
+## Tentang Kami
 
 **VivaJauh** adalah platform manajemen koperasi yang dibangun khusus untuk **koperasi peternakan** di wilayah 3T (Terdepan, Terluar, Tertinggal) Indonesia.
 
@@ -23,7 +23,7 @@ Platform kami membantu koperasi untuk:
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 | Lapisan | Teknologi |
 |---|---|
@@ -34,9 +34,9 @@ Platform kami membantu koperasi untuk:
 
 ---
 
-## 📦 Repositori
+## Repository
 
-| Repositori | Deskripsi |
+| Repository | Deskripsi |
 |---|---|
 | [`VivaJauh-BE`](https://github.com/VivaJauh/VivaJauh-BE) | Backend API menggunakan Node.js, Express, Prisma, PostgreSQL |
 | [`VivaJauh-Mobile`](https://github.com/VivaJauh/VivaJauh-Mobile) | Aplikasi mobile menggunakan Flutter, offline-first dengan SQLite |
